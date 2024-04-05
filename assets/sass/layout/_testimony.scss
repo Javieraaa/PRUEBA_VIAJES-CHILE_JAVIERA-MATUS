@@ -1,0 +1,27 @@
+.testimony{
+
+    &__title{
+        text-align: center;
+        padding: 2rem;
+        margin: 2rem;
+        border-bottom: .1rem solid;
+    }
+
+    &__text{
+        text-align: center;
+        color: #D1B499;
+    }
+
+    &__img{
+        width: 5rem;
+        height: 5rem;
+        object-fit: cover;
+        border-radius: 50%;
+        border: #D1B499 .1rem solid;
+    }
+
+    &__name{
+        text-align: center;
+        color: #D1B499;
+    }
+}
